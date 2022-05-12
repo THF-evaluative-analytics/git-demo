@@ -7,9 +7,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-1.  Create a branch
+1.  Create a branch DONE
 
-2.  Create a conflict by making changes to the same line of code both on main and on a branch
+2.  Create a conflict by making changes to the same line of code both on main and on a branch - starting this bit
 
 3.  Create merge request
 
