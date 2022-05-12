@@ -17,6 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 5.  Create another conflict by creating a new branch and making a change to a file, delete the same file on main
 
-6.  Resolve conflict using command line
+6.  Resolve conflict using command line - tricky
 
 7.  Create merge request for code review
