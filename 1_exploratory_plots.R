@@ -1,7 +1,8 @@
 library(tidyverse)
 
 # First plot
-ggplot(economics, aes(date, unemploy)) + geom_line(colour = 'purple')
+
+ggplot(economics, aes(date, unemploy)) + geom_line(colour = 'green')
 
 
 
